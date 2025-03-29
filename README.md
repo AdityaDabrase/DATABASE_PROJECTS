@@ -1,5 +1,5 @@
 # SQLPORTFOLIO
-# 🚀 SQL Projects
+# SQL / RDBMS Projects
 
 ## 📌 Overview
 This repository contains various SQL projects that showcase data analysis, database management, and query optimization techniques. The projects use different SQL databases and focus on writing efficient queries.
