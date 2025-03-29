@@ -5,7 +5,7 @@
 This repository contains various SQL projects that showcase data analysis, database management, and query optimization techniques. The projects use different SQL databases and focus on writing efficient queries.
 
 ## 📂 Project List
-Here are some of the key projects included in this repository:
+projects included in this repository:
 
 1. **📊 Sales Data Analysis** – Analyzing sales trends and customer purchasing behavior.
 2. **📈 Customer Segmentation** – Using SQL queries to categorize customers based on their transactions.
@@ -40,3 +40,14 @@ To run the SQL queries in this repository, you will need:
    ```bash
    git clone https://github.com/your-username/sql-projects.git
    cd sql-projects
+
+### 🤝 Contributing
+If you’d like to contribute:
+
+Fork this repository.
+
+Create a new branch (feature-branch).
+
+Commit your changes (git commit -m "Added a new SQL analysis query").
+
+Push to GitHub and submit a pull request.
