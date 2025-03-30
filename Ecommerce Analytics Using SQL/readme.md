@@ -10,7 +10,7 @@ This project uses the **Looker E-Commerce Dataset** available in BigQuery to unc
 
 ## 📂 Dataset Used  
 📌 **BigQuery Public Dataset:** `bigquery-public-data.thelook_ecommerce`  
-📌 **Tables Included:**  
+ **Tables Included:**  
 - `users` → Customer details (ID, name, gender, location)  
 - `products` → Product catalog (category, brand, price)  
 - `orders` → Purchase records (order_id, customer_id, sale_price)  
