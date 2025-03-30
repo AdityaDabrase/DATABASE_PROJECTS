@@ -1,44 +1,9 @@
-# 📊 Looker E-Commerce Data Analysis (BigQuery)
-
-> **Analyzing user behavior, sales trends, and business insights using Google BigQuery's public dataset.**
-
-## 🚀 Project Overview  
-This project explores **The Look E-Commerce Dataset** in BigQuery to gain insights into customer behavior, sales performance, and operational efficiency.  
-
-## 📂 Dataset Used  
-📌 **BigQuery Public Dataset:** `bigquery-public-data.thelook_ecommerce`  
-📌 **Tables Included:**  
-- `users` → Customer details  
-- `products` → Product catalog  
-- `orders` → Purchase records  
-- `inventory_items` → Stock levels  
-- `distribution_centers` → Warehouse locations  
-
-## 🔍 Key Insights Explored  
-✅ **Customer Trends** → New vs. returning users, demographics  
-✅ **Sales Performance** → Seasonal trends, revenue breakdown  
-✅ **Marketing Effectiveness** → Conversions by source, discount impact  
-✅ **Operational Insights** → Order fulfillment, high-risk transactions  
-
-## 🛠️ Tools & Technologies  
-- **Google BigQuery** for SQL-based data analysis  
-- **Looker Studio** for dashboard visualization  
-
-## 📈 Future Enhancements  
-🔹 **Interactive Looker Dashboards**  
-🔹 **Customer Churn & Retention Analysis**  
-🔹 **Product Recommendation Insights**  
-
-## 👨‍💻 Author  
-**[Aditya Dabrase]** – Data Analyst | SQL | BigQuery | Looker  
-🔗 [LinkedIn](https://linkedin.com/adityadabrase) 
-
 
 # 📊 Looker E-Commerce Data Analysis (BigQuery)
 
 > **Analyzing user behavior, sales trends, and business insights using Google BigQuery's public dataset.**
 
-## 🚀 Project Overview  
+## Project Overview  
 This project uses the **Looker E-Commerce Dataset** available in BigQuery to uncover insights into customer behavior, sales trends, and operational efficiency for an e-commerce business. The analysis helps answer critical business questions and guides data-driven decisions.
 
 ---
@@ -56,7 +21,7 @@ This project uses the **Looker E-Commerce Dataset** available in BigQuery to unc
 
 ## 🔍 Business Questions Addressed  
 
-### 1️⃣ **Customer Insights**  
+### 1️**Customer Insights**  
 **Business Question:**  
 - **Who are the top customers based on lifetime revenue?**  
 - **What are the characteristics of new vs. returning users?**  
@@ -66,7 +31,7 @@ This project uses the **Looker E-Commerce Dataset** available in BigQuery to unc
 - **Filtering (`WHERE`)**  
 - **Date functions (`EXTRACT`, `DATE_DIFF`)**  
 
-### 2️⃣ **Sales Trends and Revenue Analysis**  
+### 2️**Sales Trends and Revenue Analysis**  
 **Business Question:**  
 - **What are the revenue trends by month and year?**  
 - **What are the top-selling products?**  
@@ -77,7 +42,7 @@ This project uses the **Looker E-Commerce Dataset** available in BigQuery to unc
 - **Date functions (`EXTRACT`, `TIMESTAMP_DIFF`)**  
 - **Joins (`JOIN`)**  
 
-### 3️⃣ **Marketing and Conversion Analysis**  
+### 3️**Marketing and Conversion Analysis**  
 **Business Question:**  
 - **Which traffic sources bring in the most revenue?**  
 - **How does offering discounts impact conversion rates?**  
@@ -87,7 +52,7 @@ This project uses the **Looker E-Commerce Dataset** available in BigQuery to unc
 - **Conditional Aggregation (`CASE WHEN`)**  
 - **Subqueries**  
 
-### 4️⃣ **Operational Efficiency and Product Management**  
+### 4 **Operational Efficiency and Product Management**  
 **Business Question:**  
 - **What is the average fulfillment time for orders?**  
 - **How often do certain products run out of stock?**  
@@ -97,7 +62,7 @@ This project uses the **Looker E-Commerce Dataset** available in BigQuery to unc
 - **Join and Filter combinations**  
 - **CASE Statements for conditional logic**  
 
-### 5️⃣ **Risk and Refund Management**  
+### 5️**Risk and Refund Management**  
 **Business Question:**  
 - **Which users have the highest refund rates?**  
 - **How can we detect high-risk transactions?**  
@@ -133,6 +98,6 @@ This project uses the **Looker E-Commerce Dataset** available in BigQuery to unc
 ---
 
 ## 👨‍💻 Author  
-**[Your Name]** – Data Analyst | SQL | BigQuery | Looker  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)  
+**[Aditya Dabrase]** – Data Analyst | SQL | BigQuery | Looker  
+📧 Email: dabrase.a@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/adityadabrase/) | [GitHub](https://github.com/AdityaDabrase)  
